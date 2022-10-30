@@ -1,7 +1,9 @@
+package GUIWin;
+
 import javax.swing.*;
 import java.awt.*; // Access JFrame
 
-class GUIWindow {
+public class GUIWindow {
 
     public static void main(String[] args) {
         JFrame theGUI = new JFrame();
